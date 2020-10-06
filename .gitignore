@@ -14,9 +14,6 @@ __pycache__/
 # nohup
 nohup.out
 
-# sensitivity array
-sensitivity_coefficients/
-
 # optimized_params
 *.log
 
