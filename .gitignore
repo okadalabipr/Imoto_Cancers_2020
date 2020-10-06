@@ -18,7 +18,6 @@ nohup.out
 sensitivity_coefficients/
 
 # optimized_params
-*.csv
 *.log
 
 # swp
