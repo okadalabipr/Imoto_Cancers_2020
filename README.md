@@ -1,9 +1,9 @@
 # Imoto_Cancers_2020
 
 This repository contains modeling code for the following paper:<br>
-- Imoto, H., Zhang, S. & Okada, M. A Computational Framework for Prediction and Analysis of Cancer Signaling Dynamics from RNA Sequencing Data — Application to the ErbB Receptor Signaling Pathway. *Cancers* (2020)
+- Imoto, H.; Zhang, S.; Okada, M. A Computational Framework for Prediction and Analysis of Cancer Signaling Dynamics from RNA Sequencing Data—Application to the ErbB Receptor Signaling Pathway. *Cancers* **2020**, *12*, 2878.
 
-The paper can be accessed at the [Cancers website]().
+The paper can be accessed at the [Cancers website](https://www.mdpi.com/2072-6694/12/10/2878).
 
 ## Description
 
@@ -33,6 +33,7 @@ The paper can be accessed at the [Cancers website]().
 1. Parameter estimation
     ```bash
     $ cd trainig
+    $ mkdir logs
     $ sh optimize_parallel.sh
     ```
 
