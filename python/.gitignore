@@ -17,8 +17,6 @@ nohup.out
 # figs
 figure/
 
-# fit_param
-out/
 
 # sensitivity array
 sensitivity_coefficients/
